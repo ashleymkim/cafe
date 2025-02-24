@@ -81,3 +81,17 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.another-button {
+    background-color: white
+}
+
+.message {
+    background-color: white;
+    padding: 15px;
+    border: 1px solid darkslategrey;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 18px;
+    color: darkslategrey;
+}
